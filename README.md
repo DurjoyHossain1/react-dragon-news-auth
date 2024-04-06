@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+website url = https://react-dragon-news-auth-dcce3.web.app/?fbclid=IwAR1KDQfLjSFAlh9fQTqiMnhVzZLUjCxG-_xTECV21LgDgu7itWVZp0TtbqQ_aem_AUS8Vk9T3Rkcqk0bMEYXsWtaxhEpEp-TrK-8K0UmE6jx92mVTOwroW6foXXvbLSVcaYttvSKwyf-RD5VVhdUFAxF
